@@ -1,7 +1,0 @@
-plant-obsession/
-│── index.html
-│── images/
-    │── venus-flytrap.jpg
-    │── pitcher-plant.jpg
-    │── lithops.jpg
-    │── philodendron.jpg
